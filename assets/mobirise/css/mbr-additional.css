@@ -1879,9 +1879,9 @@ body {
   }
 }
 .cid-qPA0RoEheV {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #f9f295;
 }
 .cid-qPA0RoEheV .mbr-section-subtitle {
   color: #767676;
@@ -1897,6 +1897,7 @@ body {
 .cid-qPA0RoEheV .mbr-author-desc {
   display: block;
   color: #767676;
+  text-align: left;
 }
 .cid-qPA0RoEheV .mbr-author-name {
   color: #767676;
