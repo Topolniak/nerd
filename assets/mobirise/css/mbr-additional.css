@@ -1903,6 +1903,30 @@ body {
 .cid-qRz3p8Ttse P {
   color: #cccccc;
 }
+.cid-qRzlD3Vaxl {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qRzlD3Vaxl .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRzlD3Vaxl .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qRzlD3Vaxl .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qRzlD3Vaxl .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
 .cid-qPA0RoEheV {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2004,85 +2028,6 @@ body {
 @media (max-width: 767px) {
   .cid-qPA3ejhD48 .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
-  }
-}
-.cid-qPA16nUJJn {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qPA16nUJJn .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qPA16nUJJn .container-table {
-  margin: 0 auto;
-}
-.cid-qPA16nUJJn .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-qPA16nUJJn .dataTables_wrapper {
-  display: block;
-}
-.cid-qPA16nUJJn .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-qPA16nUJJn .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-qPA16nUJJn table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #149dcc;
-  margin-bottom: 0;
-}
-.cid-qPA16nUJJn table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-qPA16nUJJn table th:hover {
-  background: #149dcc;
-  color: #ffffff;
-}
-.cid-qPA16nUJJn table td {
-  border-top: 1px solid #149dcc;
-}
-.cid-qPA16nUJJn table.table {
-  background: #ffffff;
-}
-.cid-qPA16nUJJn .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-qPA16nUJJn .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-qPA16nUJJn .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-qPA16nUJJn .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-qPA16nUJJn .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-qPA16nUJJn .dataTables_filter {
-    text-align: center;
-  }
-  .cid-qPA16nUJJn .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
   }
 }
 .cid-qPzZONbSZY {
