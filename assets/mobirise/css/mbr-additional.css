@@ -1879,6 +1879,8 @@ body {
   }
 }
 .cid-qRz3p8Ttse {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/vader-741x486.jpg");
 }
 .cid-qRz3p8Ttse h1 {
@@ -1961,9 +1963,9 @@ body {
   }
 }
 .cid-qPA3ejhD48 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/background3.jpg");
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
 }
 .cid-qPA3ejhD48 .testimonials-container {
   margin: 0 auto;
@@ -2178,9 +2180,9 @@ body {
   }
 }
 .cid-qPA245hq2t {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #2e2e2e;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qPA245hq2t .content {
@@ -2243,6 +2245,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qPA245hq2t P {
+  color: #7f1933;
 }
 .cid-qPA2iL84Ab {
   padding-top: 30px;
